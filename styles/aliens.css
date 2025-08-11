@@ -1,0 +1,103 @@
+section#diamondhead {
+    background-image: url(../imagens/diamondhead-bg.png);
+}
+
+section#diamondhead:hover {
+    background-position: center center;
+}
+
+section#diamondhead:hover img{
+    border: solid 5px #1aaedb;
+    box-shadow: 7px 1px 20px 2px #1aaedb42;
+}
+
+section#xrl8 {
+    background-image: url(../imagens/xrl8-bg.png);
+}
+
+section#xrl8:hover {
+    background-position: center center;
+}
+
+section#xrl8:hover img{
+    border: solid 5px #1aaedb;
+    box-shadow: 7px 1px 20px 2px #1aaedb42;
+}
+
+section#fantasmatic {
+    background-image: url(../imagens/fantasmatic-bg.png);
+    background-position: center top;
+
+    article { border: ridge 5px #741adb; }
+}
+
+section#fantasmatic:hover {
+    background-position: center center;
+}
+
+section#fantasmatic:hover img{
+    border: solid 5px #741adb;
+    box-shadow: 7px 1px 20px 2px #741adb5e;
+}
+
+section#ripjaws {
+    background-image: url(../imagens/ripjaws-bg.png);
+    
+    article { border: ridge 5px #1e2ba0; }
+}
+
+section#ripjaws:hover {
+    background-position: center center;
+}
+
+section#ripjaws:hover img{
+    border: solid 5px #1a57db;
+    box-shadow: 7px 1px 20px 2px #1aaedb42;
+}
+
+section#wildmutt {
+    background-image: url(../imagens/wildmutt-bg.png);
+    
+    article { border: ridge 5px #b9831f; }
+}
+
+section#wildmutt:hover {
+    background-position: center center;
+}
+
+section#wildmutt:hover img{
+    border: solid 5px #ac6a1f;
+    box-shadow: 7px 1px 20px 2px #ac6a1f6c;
+}
+
+section#upgrate {
+    background-image: url(../imagens/upgrade-bg.jpeg);
+    background-position: center center;
+    
+    article { border: ridge 5px #b9831f; }
+}
+
+section#upgrate:hover {
+    background-position: center top;
+}
+
+section#upgrate:hover img{
+    border: solid 5px #1a7712;
+    box-shadow: 7px 1px 20px 2px #ac6a1f6c;
+}
+
+section#heatblast {
+    background-image: url(../imagens/heatblast-bg.jfif);
+    background-position: center center;
+    
+    article { border: ridge 5px #b9831f; }
+}
+
+section#heatblast:hover {
+    background-position: center top;
+}
+
+section#heatblast:hover img {
+    border: solid 5px #e78d16;
+    box-shadow: 7px 1px 20px 2px #995b14;
+}
